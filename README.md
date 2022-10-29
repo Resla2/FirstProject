@@ -1,2 +1,2 @@
-# FirstProject
-First Project learning Git.
+# First Project
+First Project learning Git. Hello Everyone.
